@@ -1,5 +1,5 @@
  body {
-  background-color: #2a2a2a;
+  background-color: #171717;
  }
  /* Navigation bar! */
 
@@ -18,7 +18,7 @@
   }
 
 .topnav {
-  background-color: #222222;
+  background-color: #202020;
   overflow: scroll;
   width: 100%;
 }
@@ -64,14 +64,16 @@ margin-right: 40px;
   color: white;
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
-  margin-top: 150px;
-
-
+  margin-top: 80px;
+  margin-right: 300px;
  }
+
+ 
 
  .bg h2 span {
   font-size: 80px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
  }
 
 .bg img {
@@ -89,30 +91,26 @@ margin-right: 40px;
   color: yellow;
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
+  margin-bottom: 80px;
+  margin-left: 250px;
 }
 .Intro h2 {
-  position: relative;
-  max-width: 400px;
-  margin-top: 450px;
-  margin-left: 160px;
+  margin-top: 150px;
+  text-align: center;
   color: white;
   font-size: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   }
 
 
 /* About Me */
 
-.Intro h2 {
-  position: relative;
-  max-width: 400px;
-  margin-top: 450px;
-  margin-left: 160px;
-  color: white;
-  font-size: 50px;
-  text-align: center;
-  }
-
 #p1 {
   color: white;
   text-align: center;
+}
+
+#S {
+  text-align: center;
+  margin-left: 250px;
 }
